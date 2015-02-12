@@ -18,7 +18,7 @@ N in the "N_Memcached" stands for "Namespace". Using N_Memcached we can crate na
 
 <?php
 	
-	require_once '../Library/cache/N_Memcached.php';
+	require_once 'Library/cache/N_Memcached.php';
 
 	$config = array();
 	//Unique App ID for the application  
